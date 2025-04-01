@@ -6,7 +6,7 @@ This is a simple Image Slider project that allows users to navigate through a co
 ## Features
 - Smooth image transitions
 - Next and Previous navigation buttons
-- Auto-slide functionality (if applicable)
+- Auto-slide functionality (optional)
 - Responsive design for different screen sizes
 
 ## Installation
